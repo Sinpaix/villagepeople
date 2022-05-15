@@ -1,5 +1,5 @@
 Villagepeople oli kouluprojekti, jossa olin osana kolmen hengen tiimiä. Tehtävänä oli toteuttaa kuvitteelliselle mökkejä ja matkailupalveluita välittävälle yritykselle mökkien varausjärjestelmä. 
-Sovellus päätettiin toteuttaa JavaScript-ohjelmointikielellä, Backend toteutettiin Node.js:n avulla ja frontend käyttöliittymäkirjasto React.js:n avulla. Käytimme myös Material UI-komponenttikirjastoa, jotta käyttöliittymästä saatiin yhteneväinen, moderni sekä käyttäjäystävällinen.
+Sovellus päätettiin toteuttaa JavaScript-ohjelmointikielellä, backend toteutettiin Node.js:n avulla ja frontend käyttöliittymäkirjasto React.js:n avulla. Käytimme myös Material UI-komponenttikirjastoa, jotta käyttöliittymästä saatiin yhteneväinen, moderni sekä käyttäjäystävällinen.
 Nämä tekniikat valittiin siksi, että projektia edeltävät opinnot olivat keskittyneet näiden opiskeluun ja jokainen ryhmänjäsen saisi näiden harjoittelusta projektin avulla hyvää kokemusta työelämää varten.
 
 Projektin roolitus jaettiin siten, että jokainen ryhmän jäsen pääsi mahdollisimman monipuolisesti tekemään sovelluksen eri osioita eli kukaan ei yksin ollut vastuussa frontista tai backista. Jokainen ryhmänjäsen toteutti 2-3 tarjouspyynnön asiakasvaatimusta kokonaisuudessaan eli käyttöliittymän sekä sen backend-toiminnallisuuden.
